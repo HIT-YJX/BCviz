@@ -5,9 +5,9 @@ Instructions for the source code and related materials of the paper: <br>
 -----------
 
 
-The source codes can be downloaded at "https://anonymous.4open.science/r/BCX71Z05".<br>
+The source codes can be downloaded at "https://github.com/HIT-YJX/BCviz".<br>
 
-The datasets can be downloaded at "https://anonymous.4open.science/r/BCX71Z05-datasets".<br>
+The datasets can be downloaded at "https://github.com/HIT-YJX/BCviz-datasets".<br>
 
 To run certain experimental scripts, the datasets **must be strictly named** as follows:<br>
 
@@ -348,4 +348,5 @@ This experiment will run for **1.2 hours**. Please wait before proceeding to the
 
 (2) To plot the figures, turn to the directory "~\BCviz\experiments\6.Scalability" and run the program "Fig.13.py".<br>
 Two figures "Marvel-scalability.jpg" and "WikiPedia-scalability.jpg" will be generated in current director.<br>
+
 
