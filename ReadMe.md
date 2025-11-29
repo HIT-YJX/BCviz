@@ -174,7 +174,7 @@ MBB BCviz writer 3 3 0.133
 
 # III. datasets
 
-You can download the datasets at "https://anonymous.4open.science/r/BCX71Z05-datasets".
+You can download the datasets at "https://github.com/HIT-YJX/BCviz-datasets".
 
 Among these datasets, the datasets marvel20, marvel40, marvel60, and marvel80 were obtained by sampling 20%, 40%, 60%, and 80% of the edges from the original marvel dataset. <br>
 Similarly, Twitter20, Twitter40, Twitter60, and Twitter80 were derived by sampling from the Twitter dataset.<br>
