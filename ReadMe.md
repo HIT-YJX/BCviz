@@ -204,7 +204,7 @@ To run certain experimental scripts, the datasets **must be strictly named** as 
 # IV. experiments
 
 This section introduces how to repeat the paper experiments and plot related figures and tables.<br>
-Before proceeding with these following experiments, please compile and test the algorithm "BCviz" in folder "construction-BCviz" and algorithm "MBS" in folder "search-BCviz". Please download all datasets from the URL "https://anonymous.4open.science/r/BCX71Z05-datasets" and place them in the directory "~/BCviz/datasets/". Then, use the command `tar -xJvf DBLP.tar.xz` to extract "DBLP.tar.xz" into the file named "DBLP".<br>
+Before proceeding with these following experiments, please compile and test the algorithm "BCviz" in folder "construction-BCviz" and algorithm "MBS" in folder "search-BCviz". Please download all datasets from the URL "https://github.com/HIT-YJX/BCviz-datasets" and place them in the directory "~/BCviz/datasets/". Then, use the command `tar -xJvf DBLP.tar.xz` to extract "DBLP.tar.xz" into the file named "DBLP".<br>
 
 The plotting codes are implemented in python 3.11.4 and can be executed on Linux (Ubuntu 22.04.4), Windows 10/11 systems.<br>
 
