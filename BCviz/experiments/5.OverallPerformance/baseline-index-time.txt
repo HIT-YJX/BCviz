@@ -1,0 +1,12 @@
+nohup: ignoring input
+/---------IndexConstructionTime---(s)--------/
+MEB MBCI marvel 3 3 290.173
+MEB MBCI writer 3 3 4.53533
+MEB MBCI BookCrossing 3 3 78.5549
+MEB MBCI Team 3 3 685.022
+MEB MBCI Actor-movie 3 3 308.57
+MEB MBCI Twitter 3 3 15255.5
+MEB MBCI WikiPedia 3 3 3883.46
+MEB MBCI DBLP 3 3 29055.2
+
+

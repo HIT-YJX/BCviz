@@ -1,0 +1,82 @@
+nohup: ignoring input
+/---------VariedSearchTime---(ms)--------/
+MEB BCviz writer 3 3 0.01
+MEB BCviz+ writer 3 3 0.01
+MEB BCviz- writer 3 3 0.01
+MVB BCviz writer 3 3 0.01
+MVB BCviz+ writer 3 3 0.009
+MVB BCviz- writer 3 3 0.01
+MBB BCviz writer 3 3 0.011
+MBB BCviz+ writer 3 3 0.011
+MBB BCviz- writer 3 3 0.01
+
+MEB BCviz writer 4 4 0.01
+MEB BCviz+ writer 4 4 0.01
+MEB BCviz- writer 4 4 0.01
+MVB BCviz writer 4 4 0.088
+MVB BCviz+ writer 4 4 0.083
+MVB BCviz- writer 4 4 0.083
+MBB BCviz writer 4 4 0.01
+MBB BCviz+ writer 4 4 0.01
+MBB BCviz- writer 4 4 0.01
+
+MEB BCviz writer 5 5 0.015
+MEB BCviz+ writer 5 5 0.014
+MEB BCviz- writer 5 5 0.015
+MVB BCviz writer 5 5 0.109
+MVB BCviz+ writer 5 5 0.125
+MVB BCviz- writer 5 5 0.114
+MBB BCviz writer 5 5 0.01
+MBB BCviz+ writer 5 5 0.011
+MBB BCviz- writer 5 5 0.025
+
+MEB BCviz writer 6 6 0.012
+MEB BCviz+ writer 6 6 0.013
+MEB BCviz- writer 6 6 0.013
+MVB BCviz writer 6 6 0.071
+MVB BCviz+ writer 6 6 0.071
+MVB BCviz- writer 6 6 0.071
+MBB BCviz writer 6 6 0.01
+MBB BCviz+ writer 6 6 0.012
+MBB BCviz- writer 6 6 0.01
+
+MEB BCviz WikiPedia 3 3 0.536
+MEB BCviz+ WikiPedia 3 3 5.371
+MEB BCviz- WikiPedia 3 3 0.622
+MVB BCviz WikiPedia 3 3 0.554
+MVB BCviz+ WikiPedia 3 3 0.572
+MVB BCviz- WikiPedia 3 3 0.593
+MBB BCviz WikiPedia 3 3 0.545
+MBB BCviz+ WikiPedia 3 3 21.66
+MBB BCviz- WikiPedia 3 3 16.379
+
+MEB BCviz WikiPedia 4 4 6.118
+MEB BCviz+ WikiPedia 4 4 6.029
+MEB BCviz- WikiPedia 4 4 5.491
+MVB BCviz WikiPedia 4 4 6.278
+MVB BCviz+ WikiPedia 4 4 10.533
+MVB BCviz- WikiPedia 4 4 9.267
+MBB BCviz WikiPedia 4 4 0.545
+MBB BCviz+ WikiPedia 4 4 21.439
+MBB BCviz- WikiPedia 4 4 15.417
+
+MEB BCviz WikiPedia 5 5 10.828
+MEB BCviz+ WikiPedia 5 5 13.699
+MEB BCviz- WikiPedia 5 5 13.372
+MVB BCviz WikiPedia 5 5 19.494
+MVB BCviz+ WikiPedia 5 5 24.206
+MVB BCviz- WikiPedia 5 5 23.284
+MBB BCviz WikiPedia 5 5 0.54
+MBB BCviz+ WikiPedia 5 5 22.944
+MBB BCviz- WikiPedia 5 5 15.64
+
+MEB BCviz WikiPedia 6 6 12.845
+MEB BCviz+ WikiPedia 6 6 16.487
+MEB BCviz- WikiPedia 6 6 16.006
+MVB BCviz WikiPedia 6 6 29.943
+MVB BCviz+ WikiPedia 6 6 46.266
+MVB BCviz- WikiPedia 6 6 33.204
+MBB BCviz WikiPedia 6 6 0.563
+MBB BCviz+ WikiPedia 6 6 21.901
+MBB BCviz- WikiPedia 6 6 15.54
+

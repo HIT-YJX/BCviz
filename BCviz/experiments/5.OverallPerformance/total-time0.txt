@@ -1,0 +1,129 @@
+/--------s[3,34];t[3,34]--------/
+MEB MBC marvel 150.747
+MEB MBC writer 8.88727
+MEB MBC BookCrossing 1530.62
+MEB MBC Actor-movie 9716.89
+MEB MBC Team 22889
+MEB MBC Twitter 16832.1
+MEB MBC WikiPedia 2937.75
+MEB MBC DBLP 4724.25
+
+MEB BCviz marvel 2.17811
+MEB BCviz writer 0.00907097
+MEB BCviz BookCrossing 0.158393
+MEB BCviz Team 88.895
+MEB BCviz Actor-movie 46.695
+MEB BCviz Twitter 236.26
+MEB BCviz WikiPedia 51.8963
+MEB BCviz DBLP 7.48651
+
+MEB BCviz+ marvel 8.6592
+MEB BCviz+ writer 0.00963763
+MEB BCviz+ BookCrossing 4.46582
+MEB BCviz+ Team 160.08
+MEB BCviz+ Actor-movie 56.3489
+MEB BCviz+ Twitter 421.524
+MEB BCviz+ WikiPedia 69.4907
+MEB BCviz+ DBLP 15.2688
+
+MEB BCviz- marvel 6.405
+MEB BCviz- writer 0.0136645
+MEB BCviz- BookCrossing 3.96251
+MEB BCviz- Team 91.4565
+MEB BCviz- Actor-movie 18.8984
+MEB BCviz- Twitter 583.858
+MEB BCviz- WikiPedia 35.5927
+MEB BCviz- DBLP 15.829
+
+
+MVB BIIP marvel 93222.1 592 0
+MVB BIIP writer 782.0 0 0
+MVB BIIP BookCrossing 488132.0 0 0
+MVB BIIP Team 128392.6 39 8
+MVB BIIP Actor-movie 827088.0 53 0 0
+MVB BIIP Twitter 1956242.3 1048 85
+MVB BIIP WikiPedia 1787852.46 682 0 0
+MVB BIIP DBLP 1993623.0 0 0
+
+MVB MBC marvel 106.711
+MVB MBC writer 9.0199
+MVB MBC BookCrossing 583.945
+MVB MBC Team 22823.2
+MVB MBC Actor-movie 5812.08
+MVB MBC Twitter 2221.05
+MVB MBC WikiPedia 2040.05
+MVB MBC DBLP 4781.58
+
+MVB BCviz marvel 2.9709
+MVB BCviz writer 0.0450892
+MVB BCviz BookCrossing 0.728423
+MVB BCviz Team 94.8868
+MVB BCviz Actor-movie 53.0302
+MVB BCviz Twitter 66.4891
+MVB BCviz WikiPedia 63.455
+MVB BCviz DBLP 12.3825
+
+MVB BCviz+ marvel 5.1378
+MVB BCviz+ writer 0.0516473
+MVB BCviz+ BookCrossing 5.87176
+MVB BCviz+ Team 147.636
+MVB BCviz+ Actor-movie 53.8044
+MVB BCviz+ Twitter 127.807
+MVB BCviz+ WikiPedia 75.988
+MVB BCviz+ DBLP 26.13
+
+MVB BCviz- marvel 7.1378
+MVB BCviz- writer 0.0516151
+MVB BCviz- BookCrossing 4.75632
+MVB BCviz- Team 84.1191
+MVB BCviz- Actor-movie 31.9788
+MVB BCviz- Twitter 274.799
+MVB BCviz- WikiPedia 45.8156
+MVB BCviz- DBLP 27.3107
+
+
+
+MBB ooMBC marvel 394.477
+MBB ooMBC writer 66.797
+MBB ooMBC BookCrossing 2589.36
+MBB ooMBC Team 14502.3
+MBB ooMBC Actor-movie 9475.43
+MBB ooMBC Twitter 22149.9
+MBB ooMBC WikiPedia 1042.24
+MBB ooMBC DBLP 11490.4
+
+MBB MBC marvel 211.265
+MBB MBC writer 6.55217
+MBB MBC BookCrossing 1219.62
+MBB MBC Team 16526.8
+MBB MBC Actor-movie 8666.21
+MBB MBC Twitter 20316.2
+MBB MBC WikiPedia 1206.61
+MBB MBC DBLP 3193.234
+
+MBB BCviz marvel 0.0632996
+MBB BCviz writer 0.00850616
+MBB BCviz BookCrossing 0.0674994
+MBB BCviz Team 49.4235
+MBB BCviz Actor-movie 0.114419
+MBB BCviz Twitter 0.112259
+MBB BCviz WikiPedia 0.335716
+MBB BCviz DBLP 2.00995
+
+MBB BCviz+ marvel 1.2865
+MBB BCviz+ writer 0.00862963
+MBB BCviz+ BookCrossing 0.440054
+MBB BCviz+ Team 51.2952
+MBB BCviz+ Actor-movie 3.03817
+MBB BCviz+ Twitter 12.573
+MBB BCviz+ WikiPedia 24.5507
+MBB BCviz+ DBLP 2.00665
+
+MBB BCviz- marvel 2.1712
+MBB BCviz- writer 0.00869012
+MBB BCviz- BookCrossing 6.0457
+MBB BCviz- Team 19.3771
+MBB BCviz- Actor-movie 7.61049
+MBB BCviz- Twitter 7.24093
+MBB BCviz- WikiPedia 35.6497
+MBB BCviz- DBLP 1.95423

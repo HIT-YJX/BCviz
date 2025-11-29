@@ -1,0 +1,97 @@
+MEB BCviz+ marvel 4 4 0.047 2352 2352
+MEB BCviz- marvel 4 4 0.045 2352 2352
+MEB BCviz marvel 4 4 0.035 2352 2352
+
+MEB BCviz+ writer 4 4 0.01 136 136
+MEB BCviz- writer 4 4 0.01 136 136
+MEB BCviz writer 4 4 0.009 136 136
+
+MEB BCviz+ BookCrossing 4 4 3.736 180 180
+MEB BCviz- BookCrossing 4 4 3.559 180 180
+MEB BCviz BookCrossing 4 4 0.10 180 180
+
+MEB BCviz+ Team 4 4 34.949 140 140
+MEB BCviz- Team 4 4 28.999 140 140
+MEB BCviz Team 4 4 21.274 140 84
+
+MEB BCviz+ Actor-movie 4 4 0.986 270 160
+MEB BCviz- Actor-movie 4 4 0.856 270 160
+MEB BCviz Actor-movie 4 4 0.841 270 160
+
+MEB BCviz+ Twitter 4 4 14.761 4176 4176
+MEB BCviz- Twitter 4 4 8.34 4176 4136
+MEB BCviz Twitter 4 4 14.889 4176 4176
+
+MEB BCviz+ WikiPedia 4 4 6.877 2712 2712
+MEB BCviz- WikiPedia 4 4 6.029 2712 2712
+MEB BCviz WikiPedia 4 4 7.019 2712 2712
+
+MEB BCviz+ DBLP 4 4 24.353 360 88
+MEB BCviz- DBLP 4 4 22.121 360 88
+MEB BCviz DBLP 4 4 13.302 360 152
+
+
+MVB BCviz- marvel 4 4 0.04 592 592
+MVB BCviz+ marvel 4 4 0.035 592 592
+MVB BCviz marvel 4 4 0.04 592 592
+
+MVB BCviz- writer 4 4 0.101 33 33
+MVB BCviz+ writer 4 4 0.101 33 33
+MVB BCviz writer 4 4 0.107 38 33
+
+MVB BCviz- BookCrossing 4 4 2.078 30 30
+MVB BCviz+ BookCrossing 4 4 6.871 49 23
+MVB BCviz BookCrossing 4 4 0.792 49 49
+
+MVB BCviz- Team 4 4 20.234 25 25
+MVB BCviz+ Team 4 4 26.538 25 25
+MVB BCviz Team 4 4 28.242 39 25
+
+MVB BCviz Actor-movie 4 4 1.014 53 44 16.639
+MVB BCviz+ Actor-movie 4 4 1.08 53 44 16.101
+MVB BCviz- Actor-movie 4 4 1.085 53 44 16.704
+
+MVB BCviz- Twitter 4 4 16.58 1048 1048
+MVB BCviz+ Twitter 4 4 17.012 1048 1048
+MVB BCviz Twitter 4 4 14.598 1048 1048
+
+MVB BCviz WikiPedia 4 4 6.078 682 682 75.599
+MVB BCviz+ WikiPedia 4 4 10.031 682 682 72.526
+MVB BCviz- WikiPedia 4 4 9.365 682 682 69.993
+
+MVB BCviz- DBLP 4 4 81.31 94 24
+MVB BCviz+ DBLP 4 4 281.45 94 8
+MVB BCviz DBLP 4 4 18.55 94 42
+
+
+MBB BCviz marvel 4 4 0.015 225 225
+MBB BCviz- marvel 4 4 2.076 225 196
+MBB BCviz+ marvel 4 4 0.889 225 225
+
+MBB BCviz writer 4 4 0.011 36 36
+MBB BCviz- writer 4 4 0.01 36 36
+MBB BCviz+ writer 4 4 0.01 36 36
+
+MBB BCviz BookCrossing 4 4 0.04 49 49
+MBB BCviz- BookCrossing 4 4 38.655 49 16
+MBB BCviz+ BookCrossing 4 4 0.383 49 49
+
+MBB BCviz Team 4 4 0.106 36 36
+MBB BCviz- Team 4 4 0.211 36 36
+MBB BCviz+ Team 4 4 0.617 36 25
+
+MBB BCviz Actor-movie 4 4 0.148 64 64
+MBB BCviz+ Actor-movie 4 4 9.086 64 36 25.657
+MBB BCviz- Actor-movie 4 4 4.212 64 36 32.042
+
+MBB BCviz Twitter 4 4 0.158 289 289
+MBB BCviz- Twitter 4 4 4.158 289 289
+MBB BCviz+ Twitter 4 4 4.335 289 289
+
+MBB BCviz WikiPedia 4 4 0.444 196 196
+MBB BCviz+ WikiPedia 4 4 13.005 196 196 110.559
+MBB BCviz- WikiPedia 4 4 11.937 196 196 95.737
+
+MBB BCviz DBLP 4 4 77.998 196 16 320.228
+MBB BCviz+ DBLP 4 4 80.348 196 16 320.246
+MBB BCviz- DBLP 4 4 74.564 196 16 300.32

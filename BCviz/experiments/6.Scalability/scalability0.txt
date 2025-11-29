@@ -1,0 +1,42 @@
+nohup: ignoring input
+/---------IndexConstructionTime-for-Scalability---(s)--------/
+MEB BCviz marvel20 3 3 0.04657
+MEB BCviz+ marvel20 3 3 0.037936
+MEB BCviz- marvel20 3 3 0.020914
+
+MEB BCviz marvel40 3 3 1.03723
+MEB BCviz+ marvel40 3 3 0.392638
+MEB BCviz- marvel40 3 3 0.181934
+
+MEB BCviz marvel60 3 3 6.06371
+MEB BCviz+ marvel60 3 3 1.41271
+MEB BCviz- marvel60 3 3 0.641288
+
+MEB BCviz marvel80 3 3 25.4798
+MEB BCviz+ marvel80 3 3 3.36807
+MEB BCviz- marvel80 3 3 1.51299
+
+MEB BCviz marvel 3 3 65.3437
+MEB BCviz+ marvel 3 3 6.05374
+MEB BCviz- marvel 3 3 1.78017
+
+MEB BCviz Twitter20 3 3 6.51671
+MEB BCviz+ Twitter20 3 3 5.19414
+MEB BCviz- Twitter20 3 3 3.25333
+
+MEB BCviz Twitter40 3 3 67.8302
+MEB BCviz+ Twitter40 3 3 38.3221
+MEB BCviz- Twitter40 3 3 22.6027
+
+MEB BCviz Twitter60 3 3 306.525
+MEB BCviz+ Twitter60 3 3 140.454
+MEB BCviz- Twitter60 3 3 76.5758
+
+MEB BCviz Twitter80 3 3 796.142
+MEB BCviz+ Twitter80 3 3 315.001
+MEB BCviz- Twitter80 3 3 163.22
+
+MEB BCviz Twitter 3 3 1616.97
+MEB BCviz+ Twitter 3 3 483.212
+MEB BCviz- Twitter 3 3 191.21
+

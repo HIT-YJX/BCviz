@@ -1,0 +1,58 @@
+nohup: ignoring input
+/---------TotalSearchTime---(s)--------/
+MEB MBC marvel 150.747
+MEB MBC writer 8.88727
+MEB MBC BookCrossing 1530.62
+MEB MBC Actor-movie 9716.89
+MEB MBC Team 22889
+MEB MBC Twitter 16832.1
+MEB MBC WikiPedia 2937.75
+MEB MBC DBLP 4724.25
+
+MEB MBCI marvel 2.8
+MEB MBCI writer 9.0
+MEB MBCI BookCrossing 92.24
+MEB MBCI Actor-movie 116.454
+MEB MBCI Team 42.46
+MEB MBCI Twitter 88.08
+MEB MBCI WikiPedia 284.18
+MEB MBCI DBLP 377.262
+
+
+MVB BIIP marvel 93222.1 592 0
+MVB BIIP writer 782.0 0 0
+MVB BIIP BookCrossing 488132.0 0 0
+MVB BIIP Team 128392.6 39 8
+MVB BIIP Actor-movie 827088.0 53 0 0
+MVB BIIP Twitter 1956242.3 1048 85
+MVB BIIP WikiPedia 1787852.46 682 0 0
+MVB BIIP DBLP 1993623.0 0 0
+
+MVB MBC marvel 106.711
+MVB MBC writer 9.0199
+MVB MBC BookCrossing 583.945
+MVB MBC Team 22823.2
+MVB MBC Actor-movie 5812.08
+MVB MBC Twitter 2221.05
+MVB MBC WikiPedia 2040.05
+MVB MBC DBLP 4781.58
+
+
+MBB ooMBC marvel 394.477
+MBB ooMBC writer 66.797
+MBB ooMBC BookCrossing 2589.36
+MBB ooMBC Team 14502.3
+MBB ooMBC Actor-movie 9475.43
+MBB ooMBC Twitter 22149.9
+MBB ooMBC WikiPedia 1042.24
+MBB ooMBC DBLP 11490.4
+
+MBB MBC marvel 211.265
+MBB MBC writer 6.55217
+MBB MBC BookCrossing 1219.62
+MBB MBC Team 16526.8
+MBB MBC Actor-movie 8666.21
+MBB MBC Twitter 20316.2
+MBB MBC WikiPedia 1206.61
+MBB MBC DBLP 3193.234
+
